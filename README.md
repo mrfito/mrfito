@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodolfo Nunez @mrfito https://www.linkedin.com/in/rodolfo-a-nunez/
 - 👀 I’m interested in Lean, Agile, Kanban, Infrastructure as Code, and DevOps
-- 🌱 I’m currently learning as much as I can about Ansible, Harshicorp Vault, Selenium, Jenkins...
+- 🌱 I’m currently learning as much as I can about DAD, Ansible, Harshicorp Vault, Selenium, Jenkins...
 
 
 <!---
